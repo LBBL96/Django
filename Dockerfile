@@ -1,5 +1,5 @@
 FROM python:3.9-rc-alpine
-MAINTAINER Lynn Leifker
+LABEL Lynn Leifker
 
 ENV PYTHONUNBUFFERED 1
 
